@@ -1,9 +1,6 @@
 Digital controlled levitron
 =============================================================
 
-<!-- Required extensions: markdown.extensions.toc -->
-[TOC]
-
 # Objective
 
 A digital controlled levitron is build based on the analogue one from the german book ***Keine Panik vor Regelungstechnik! 2nd edition***.
